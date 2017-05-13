@@ -1,0 +1,39 @@
+Partlist exported from /Users/haileybischoff/Documents/eagle/Doorbell/USB Codec.sch at 7/12/16 3:18 PM
+
+Part Value    Device       Package       Description                                             DIGI-KEY       MF                MPN      OC_FARNELL OC_NEWARK
+C1   1uF      CAP0603      0603_CAP                                                                                                                            
+C2   1uF      CAP0603      0603_CAP                                                                                                                            
+C3   18pF     CAP0603      0603_CAP                                                                                                                            
+C4   18pF     CAP0603      0603_CAP                                                                                                                            
+C5   1uF      CAP0603      0603_CAP                                                                                                                            
+C6   1uF      CAP0603      0603_CAP                                                                                                                            
+C7   1uF      CAP0603      0603_CAP                                                                                                                            
+C8   10uF     CAP-TANT     1411_CAP                                                                                                                            
+C9   10uF     CAP-TANT     1411_CAP                                                                                                                            
+C10  10uF     CAP-TANT     1411_CAP                                                                                                                            
+C11  10uF     CAP-TANT     1411_CAP                                                                                                                            
+C12  10uF     CAP-TANT     1411_CAP                                                                                                                            
+C13  10uF     CAP-TANT     1411_CAP                                                                                                                            
+C14  0.0018uF CAP0603      0603_CAP                                                                                                                            
+C15  0.0018uF CAP0603      0603_CAP                                                                                                                            
+C16  10uF     CAP-TANT     1411_CAP                                                                                                                            
+C17  330pF    CAP0603      0603_CAP                                                                                                                            
+C18  330pF    CAP0603      0603_CAP                                                                                                                            
+IC1  PCM2900E PCM2900E     SSOP28DB      STEREO AUDIO CODEC WITH USB INTERFACE                                  TEXAS INSTRUMENTS PCM2900E 1207086    75C5376  
+JP1           PINHD-1X4    1X04          PIN HEADER                                                                                                            
+JP3           PINHD-1X3    1X03          PIN HEADER                                                                                                            
+R1   1Mohm    RESISTOR0603 0603_RESISTOR                                                                                                                       
+R2   22ohms   RESISTOR0603 0603_RESISTOR                                                                                                                       
+R3   22ohms   RESISTOR0603 0603_RESISTOR                                                                                                                       
+R4   2.2ohms  RESISTOR0603 0603_RESISTOR                                                                                                                       
+R8   1.5Kohms RESISTOR0603 0603_RESISTOR                                                                                                                       
+R9   12Kohms  RESISTOR0603 0603_RESISTOR                                                                                                                       
+R10  3.9Kohms RESISTOR0603 0603_RESISTOR                                                                                                                       
+R11  12Kohms  RESISTOR0603 0603_RESISTOR                                                                                                                       
+R12  3.9Kohms RESISTOR0603 0603_RESISTOR                                                                                                                       
+R13  100ohms  RESISTOR0603 0603_RESISTOR                                                                                                                       
+R14  100ohms  RESISTOR0603 0603_RESISTOR                                                                                                                       
+R15  12Kohms  RESISTOR0603 0603_RESISTOR                                                                                                                       
+R16  12Kohms  RESISTOR0603 0603_RESISTOR                                                                                                                       
+U1            OP-AMP       OPA2353UA     Datasheet: http://www.ti.com/lit/ds/symlink/opa2353.pdf 296-26259-1-ND                                                
+Y1   12MHz    CRYSTAL5X3   CRYSTAL_5X3                                                                                                                         
